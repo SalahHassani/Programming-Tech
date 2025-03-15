@@ -1,0 +1,16 @@
+BoardDimentions: 5 5
+S P P P L
+S P P P S
+P S P S P
+P P P L S
+P P P S P
+Lucky 500
+Service 300
+No_Of_Players: 4
+Name: Kamran Tactical
+Name: Imran Carefull
+Name: John Greedy
+Name: Lisa Greedy
+Rounds: 2
+4 5 5 3
+4 5 3 6
